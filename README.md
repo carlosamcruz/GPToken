@@ -7,6 +7,11 @@ This is a general purpose token project a fungible token with 9 functions;
 The following instructions will help you to setup the project from the current repo:
 
    ```
+	Clone Repository:
+
+		git clone https://github.com/carlosamcruz/GPToken
+		cd GPToken
+
 	Create a new React Project:
 
 		npx create-react-app webgptokon --template typescript
