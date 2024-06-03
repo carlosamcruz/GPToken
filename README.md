@@ -14,8 +14,8 @@ The following instructions will help you to setup the project from the current r
 
 	Create a new React Project:
 
-		npx create-react-app webgptokon --template typescript
-		cd webgptokon
+		npx create-react-app webgptoken --template typescript
+		cd webgptoken
 		npx scrypt-cli@latest init
 
 			***In case its necessary apply the following commands:
@@ -24,6 +24,10 @@ The following instructions will help you to setup the project from the current r
 			git add .
 			git commit -m "Initialize project using Creat React App"
 			npx scrypt-cli@latest init
+
+	Install:
+
+		npm install scrypt-ts-lib		//https://github.com/sCrypt-Inc/scrypt-ts-lib
 
 	Delete from node_mudules folders:
 
@@ -45,14 +49,9 @@ The following instructions will help you to setup the project from the current r
 		..\node_modules\node-polyfill-webpack-plugin
 		..\node_modules\filter-obj
 
-	Install:
+	Delete from projeto folder webgptoken:
 
-		npm install scrypt-ts-lib		//https://github.com/sCrypt-Inc/scrypt-ts-lib
-
-
-	Delete from projeto folder webgptokon:
-
-		..\webgptokon\scr
+		..\webgptoken\scr
 
 	Copy folder (in this repo):
 
@@ -60,7 +59,7 @@ The following instructions will help you to setup the project from the current r
 
 	Paste it into project folder:
 
-		..\webgptokon\scr   
+		..\webgptoken\scr   
 
 	Compile the Project Contracts:
 
