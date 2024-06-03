@@ -51,15 +51,15 @@ The following instructions will help you to setup the project from the current r
 
 	Delete from projeto folder webgptoken:
 
-		..\webgptoken\scr
+		..\webgptoken\src
 
 	Copy folder (in this repo):
 
-		src
+		scr
 
 	Paste it into project folder:
 
-		..\webgptoken\scr   
+		..\webgptoken\src   
 
 	Compile the Project Contracts:
 
