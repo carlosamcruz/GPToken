@@ -55,7 +55,7 @@ The following instructions will help you to setup the project from the current r
 
 	Copy folder (in this repo):
 
-		scr
+		src
 
 	Paste it into project folder:
 
